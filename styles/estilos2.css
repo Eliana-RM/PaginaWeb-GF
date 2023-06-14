@@ -25,7 +25,7 @@ nav ul {
 }
 
 nav li {
-    display: inline-flex;
+    display:inline-flex;
 }
 
 nav a {
@@ -103,11 +103,16 @@ img {
 .info-product button{
     border: none;
     background: none;
-    background-color:black;
+    background-color: black;
     color: white;
     padding: 15px 10px;
     cursor: pointer;
 }
+.info-product h2{
+    text-align: center;
+    padding: 20px;
+}
+
 main{
     margin-top: 10vh;
 }

@@ -109,7 +109,8 @@ img {
     cursor: pointer;
 }
 main{
-    margin-top: 10vh;
+    margin-top: 9vh;
+    margin-bottom: 9vh;
 }
 
 footer{
